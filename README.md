@@ -24,7 +24,7 @@ These have the images with .jpg extension to be used for the icons of the browse
 - Open a web file or html file,
     - Check your new year time counter
 
-## By @palahsu
+## By @Gokul
 
 For any kind of help, support, making project, payment, suggestion and request just ask me on Telegram:
 
