@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.5)),url('back.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+p{
+    font-size: 1.7rem;
+    font-family: cursive;
+}
+p:hover{
+    color: rgba(79, 196, 33, 0.849);
+}
+.newyear{
+    font-family: cursive;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-top: 10px;
+
+}
+.newyear:hover{
+    color: rgba(241, 217, 0, 0.986);
+}
+.conunter{
+    display: flex;
+    margin-top: 30px;
+    /* flex-direction: column; */
+
+}
+.conunter:hover{
+    color: aqua;
+}
+.box{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+
+}
+.box h2{
+    font-size: 20px;
+    font-weight: 500;
+}
+.box small{
+    font-size: 10px;
+}
